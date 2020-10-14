@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7012151-a778-4fa1-8db8-80d040e63e26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="3563d12b-ee1b-476a-ae01-836169151857" />
+  <component name="ProjectId" id="1igsKLn8fjIZ0kd8avEHshUeg0Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\task\main\static" />
+      <recent name="E:\PythonProjects\task" />
+      <recent name="E:\PythonProjects\task\main\static\main" />
+      <recent name="E:\PythonProjects\task\static\main" />
+      <recent name="E:\PythonProjects\task\main\templates\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\task\static" />
+      <recent name="E:\PythonProjects\task\main\templates\main" />
+      <recent name="E:\PythonProjects\task\main\templates" />
+      <recent name="E:\PythonProjects\task\main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7012151-a778-4fa1-8db8-80d040e63e26" name="Default Changelist" comment="" />
+      <created>1602340504881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602340504881</updated>
+      <workItem from="1602671718021" duration="15516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602606453041">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1602606453041" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602703825197">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602703825197" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1602702107014">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860@0.0.1600.860" timestamp="1602702107014" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1602340972784">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1602340972784" />
+  </component>
+</project>
