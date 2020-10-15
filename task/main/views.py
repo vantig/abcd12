@@ -10,7 +10,7 @@ def task_add(request):
     form = TaskForm(request.POST or None)
     if form.is_valid():
         form.save()
-        form = TaskForm();
+      #  form = TaskForm();
     context = {
         'form': form
     }
