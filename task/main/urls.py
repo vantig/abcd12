@@ -4,7 +4,8 @@ from . import views
 urlpatterns = [
 
    # path('', views.post_list),
-    path('admin/', admin.site.urls),
+    # path('admin/', admin.site.urls),
     path('', views.task_add),
+   # path('add/', views.task_add),
     path('save/', views.save_list, name='task_new'),
 ]

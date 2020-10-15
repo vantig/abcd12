@@ -3,10 +3,8 @@
 
 {% block content %}
 {% for form in forms %}
-<form class="form">
- <input class="in" type="text" placeholder=" input name " content="{{ form.title }}">
- <input type="button" value="ok" onClick='location.href="http://127.0.0.1:8000/save/"' class="but">
-  <input type="button" value="add" onClick='location.href="http://127.0.0.1:8000/add/"' class="add">
-</form>
+
+<h3>{{form.title}}</h3>
+
 {% endfor %}
 {% endblock %}

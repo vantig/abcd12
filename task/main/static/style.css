@@ -1,50 +1,53 @@
-    body {
-        padding: 0;
-        margin: 0;
-        background: linear-gradient(to right,#FF00FF, #575757);
-    }
-    .form {
-        margin: 0;
-        margin-top: 30px;
-        height: 46px;
-        left: 0px;
-        top: 0px;
-        border-radius: 0px;
-        display: flex;
-    }
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, #FF00FF, #575757);
+}
 
-    .in {
-        width: 340px;
-        height: 46px;
-        left: 0px;
-        top: 0px;
-        background: #FFFFFF;
-        border-radius: 0px;
-        border: 0px;
-        margin: 0;
-        padding: 0;
-    }
+.form {
+    display: flex;
+    margin: 0;
+    margin-top: 30px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    display: flex;
+}
 
-    .but {
-        width: 66px;
-        height: 46px;
-        left: 0px;
-        top: 0px;
-        background: #00AFDB;
-        border-radius: 0px;
-        border: 0;
-    }
-    .add {
-        width: 66px;
-        height: 46px;
-        left: 0px;
-        top: 0px;
-        background: #00FF00;
-        border-radius: 0px;
-        border: 0;
-    }
+.in {
+    width: 340px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    border-radius: 0px;
+    border: 0px;
+    margin: 0;
+    padding: 0;
+}
 
-    .but:hover {
-        background: #009CC2;
-         border-radius: 0px;
-    }
+.but {
+    width: 66px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+    background: #00AFDB;
+    border-radius: 0px;
+    border: 0;
+}
+
+.add {
+    width: 66px;
+    height: 46px;
+    left: 0px;
+    top: 0px;
+    background: #00FF00;
+    border-radius: 0px;
+    border: 0;
+}
+
+.but:hover {
+    background: #009CC2;
+    border-radius: 0px;
+}

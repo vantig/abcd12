@@ -2,13 +2,14 @@ from django import forms
 from .models import Task
 
 
-class TaskForm(forms.Form):
-  #   title = forms.CharField(max_length=50);
+class TaskForm(forms.ModelForm):
+    class Meta:
+        model = Task
+        fields = ['title']
 
-     class Meta:
-         model = Task
-         field = ('title')
-     def save(self):
-        new_task = Task.object.create(title=self.cleaned_data['title'])
-        return new_task;
+ #title = forms.CharField(max_length=50);
 
+
+def save(self):
+    new_task = Task.objects.create(self.title)
+    return new_task;

@@ -6,23 +6,16 @@ from .models import Task
 # Create your views here.
 
 
-
-forms=[];
-def save_list(request):
-    for form in forms:
-        if  form.is_valid() :
-
-
-            f = Task.objects.create(title= form.cleaned_data)
-            f.save()
-            f.publish()
-
-    return render(request, 'main/save.html', {'forms': Task.objects.all()}) # ищет в templates по дефолту
-
-
-
-
 def task_add(request):
+    form = TaskForm(request.POST or None)
+    if form.is_valid():
+        form.save()
+        form = TaskForm();
+    context = {
+        'form': form
+    }
+    return render(request, 'main/task_add.html', context)
 
-        forms.append(TaskForm()) ;
-        return render(request, 'main/task_add.html', {'forms': forms})
+
+def save_list(request):
+    return render(request, 'main/save.html', {'forms': Task.objects.all()})  # ищет в templates по дефолту

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7012151-a778-4fa1-8db8-80d040e63e26" name="Default Changelist" comment="" />
+    <list default="true" id="f7012151-a778-4fa1-8db8-80d040e63e26" name="Default Changelist" comment="init: start task">
+      <change afterPath="$PROJECT_DIR$/task/main/static/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/task/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/templates/main/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/templates/main/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/templates/main/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/templates/main/save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/templates/main/task_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/templates/main/task_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +42,9 @@
   </component>
   <component name="JupyterTrust" id="3563d12b-ee1b-476a-ae01-836169151857" />
   <component name="ProjectId" id="1igsKLn8fjIZ0kd8avEHshUeg0Y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,8 +77,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602340504881</updated>
-      <workItem from="1602671718021" duration="15516000" />
+      <workItem from="1602671718021" duration="25914000" />
+      <workItem from="1602755687949" duration="1265000" />
+      <workItem from="1602758396680" duration="4439000" />
     </task>
+    <task id="LOCAL-00001" summary="init: start task">
+      <created>1602703862504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602703862504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,19 +97,46 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: start task" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: start task" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602759596435">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1602759596435" />
     <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602606453041">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="559" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1602606453041" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1602759619222">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1600.860@0.0.1600.860" timestamp="1602759619222" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602703825197">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602703825197" />
-    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1602702107014">
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1602759609374">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860@0.0.1600.860" timestamp="1602702107014" />
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1600.860@0.0.1600.860" timestamp="1602759609374" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1602704134254">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1602704134254" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1602340972784">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
